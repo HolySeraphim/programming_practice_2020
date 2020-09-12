@@ -1,1 +1,1 @@
-print("Palpalych")
+print("Hello, MIPT")
