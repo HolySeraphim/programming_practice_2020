@@ -1,2 +1,2 @@
 print("Hello, master!")
-print("Hello, branch!!!")
+print("Hello, branch!")
