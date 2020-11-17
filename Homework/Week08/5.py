@@ -40,6 +40,4 @@ def change(d):
 
 
 e = np.array([[[7, 1, 12], [12, np.nan, 4]], [[np.nan, 2, 2], [3, 2, np.nan]]])
-print(e)
-print('----------------')
-print(change(e))
+print(e, '\n', change(e))
