@@ -1,0 +1,4 @@
+token = '762f9ad29a464902c5e2fa1b2100ca8eb99880d3f1953c2282ea1b5dcb2b000198de293d6d94881fc87e0'
+group_id = 200716665
+bot_id = '[club200716665|@sovushka_bot]'
+my_id = 232195513
